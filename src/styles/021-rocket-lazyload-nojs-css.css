@@ -1,0 +1,5 @@
+/* Retained page styles; order matches the original homepage. */
+.rll-youtube-player, [data-lazy-src] {
+  display:none !important;
+  
+}

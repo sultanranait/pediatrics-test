@@ -1,0 +1,77 @@
+/* Retained page styles; order matches the original homepage. */
+.ti-amp-iframe-body {
+  background:#fafafa
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-widget-container .ti-date {
+  color:#767676
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-reviews-container-wrapper {
+  padding-top:12px !important;
+  padding-bottom:12px !important
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-review-item>.ti-inner {
+  border-color:#000000 !important;
+  background-color:#ffffff;
+  background-image:url(/assets/8428e08bf1b6-widget-pattern-dottie.svg);
+  background-position:calc(100% + 70px) -70px;
+  background-size:270px;
+  background-repeat:no-repeat
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-ai-summary-item .ti-profile-img img:not(.ti-ai-profile-img) {
+  border:2px solid #ffffff;
+  border-color:#ffffff
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-ai-summary-item>.ti-inner {
+  background-color:#ffffff !important;
+  background-image:url(/assets/8428e08bf1b6-widget-pattern-dottie.svg);
+  background-position:calc(100% + 70px) -70px;
+  background-size:270px;
+  background-repeat:no-repeat
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-review-item>.ti-inner,.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-load-more-reviews-container .ti-load-more-reviews-button {
+  box-shadow:1px 4px 10px 0px rgba(0, 0, 0, 0.16), 0px 0px 2px 0px rgba(0, 0, 0, 0.05);
+  border-top-width:1px !important;
+  border-bottom-width:1px !important;
+  border-left-width:1px !important;
+  border-right-width:1px !important;
+  background-color:white !important
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-widget-header {
+  margin-bottom:4px !important;
+  background-color:#fafafa;
+  border-color:#ffffff
+}
+.ti-widget-lightbox[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-ai-summary-item .ti-profile-img img:not(.ti-ai-profile-img) {
+  border:2px solid #ffffff;
+  border-color:#ffffff
+}
+.ti-widget-lightbox[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-ai-summary-item>.ti-inner {
+  background-color:#ffffff !important;
+  background-image:url(/assets/8428e08bf1b6-widget-pattern-dottie.svg);
+  background-position:calc(100% + 70px) -70px;
+  background-size:270px;
+  background-repeat:no-repeat
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-widget-header .ti-platform-tabs .ti-tab-item:not(.ti-tab-active):hover {
+  background:#e1e1e1
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-widget-header .ti-platform-tabs .ti-platform-tab-nav .ti-arrow-next {
+  background:linear-gradient(-90deg, #fafafa 67%, rgba(250, 250, 250, 0) 85%)
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-widget-header .ti-platform-tabs .ti-platform-tab-nav .ti-arrow-prev {
+  background:linear-gradient(90deg, #fafafa 67%, rgba(250, 250, 250, 0) 85%)
+}
+
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-controls {
+  margin-top:-15px
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-controls .ti-next:before,.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-controls .ti-prev:before {
+  border-color:#000000
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-controls-line {
+  background:rgba(0, 0, 0, 0.35)
+}
+.ti-widget[data-layout-id='108'][data-set-id='light-background'][data-pid='5f2523c609e5812a9c76a09e04a'] .ti-controls-line .dot {
+  background:#000000
+}

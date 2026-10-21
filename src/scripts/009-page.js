@@ -1,0 +1,3 @@
+// Retained page initialization; execution order is significant.
+
+(function () { if (window.tiLoaderFallback) { return; } window.tiLoaderFallback = true; function tiLoadLoader() { if (window.TrustindexWidget || document.querySelector('script[src*="/assets/a6d2c200fe05-loader.js"]')) { return; } let script = document.createElement("script"); script.async = true; script.src = "/assets/a6d2c200fe05-loader.js"; script.setAttribute("data-ccm-injected", "1"); document.head.appendChild(script); } if ("loading" === document.readyState) { document.addEventListener("DOMContentLoaded", tiLoadLoader); } else { tiLoadLoader(); } })();

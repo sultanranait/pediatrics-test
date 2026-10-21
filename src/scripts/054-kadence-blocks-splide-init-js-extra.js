@@ -1,0 +1,8 @@
+// Retained page initialization; execution order is significant.
+
+var kb_splide = {"i18n":{"prev":"Previous slide","next":"Next slide","first":"Go to first slide","last":"Go to last slide","slideX":"Go to slide %s","pageX":"Go to page %s","play":"Start autoplay","pause":"Pause autoplay","carousel":"carousel","slide":"slide","select":"Select a slide to show","slideLabel":"%s of %s"}};
+var kb_splide = {"i18n":{"prev":"Previous slide","next":"Next slide","first":"Go to first slide","last":"Go to last slide","slideX":"Go to slide %s","pageX":"Go to page %s","play":"Start autoplay","pause":"Pause autoplay","carousel":"carousel","slide":"slide","select":"Select a slide to show","slideLabel":"%s of %s"}};
+var kb_splide = {"i18n":{"prev":"Previous slide","next":"Next slide","first":"Go to first slide","last":"Go to last slide","slideX":"Go to slide %s","pageX":"Go to page %s","play":"Start autoplay","pause":"Pause autoplay","carousel":"carousel","slide":"slide","select":"Select a slide to show","slideLabel":"%s of %s"}};
+var kb_splide = {"i18n":{"prev":"Previous slide","next":"Next slide","first":"Go to first slide","last":"Go to last slide","slideX":"Go to slide %s","pageX":"Go to page %s","play":"Start autoplay","pause":"Pause autoplay","carousel":"carousel","slide":"slide","select":"Select a slide to show","slideLabel":"%s of %s"}};
+var kb_splide = {"i18n":{"prev":"Previous slide","next":"Next slide","first":"Go to first slide","last":"Go to last slide","slideX":"Go to slide %s","pageX":"Go to page %s","play":"Start autoplay","pause":"Pause autoplay","carousel":"carousel","slide":"slide","select":"Select a slide to show","slideLabel":"%s of %s"}};
+//# sourceURL=kadence-blocks-splide-init-js-extra

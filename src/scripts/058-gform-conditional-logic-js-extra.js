@@ -1,0 +1,31 @@
+// Retained page initialization; execution order is significant.
+
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+var gf_legacy = {"is_legacy":""};
+//# sourceURL=gform_conditional_logic-js-extra

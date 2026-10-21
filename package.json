@@ -1,0 +1,13 @@
+{
+  "name": "pediatrics-homepage-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "build": "node scripts/build.cjs",
+    "preview": "node server.cjs --dist",
+    "check": "node scripts/check.cjs"
+  },
+  "engines": { "node": ">=18" }
+}

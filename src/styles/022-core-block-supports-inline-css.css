@@ -1,0 +1,96 @@
+/* Retained page styles; order matches the original homepage. */
+
+.wp-elements-1 a:where(:not(.wp-element-button)) {
+  color:#575050;
+  
+}
+.wp-elements-2 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-3 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-4 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-5 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-6 a:where(:not(.wp-element-button)) {
+  color:#ddf6fc;
+  
+}
+.wp-elements-7 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-8 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-9);
+  
+}
+.wp-elements-9 a:where(:not(.wp-element-button)) {
+  color:#000000;
+  
+}
+.wp-elements-10 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-9);
+  
+}
+.wp-elements-11 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-9);
+  
+}
+.wp-elements-12 a:where(:not(.wp-element-button)) {
+  color:#e9d3f5;
+  
+}
+.wp-elements-13 a:where(:not(.wp-element-button)) {
+  color:#ef8c8c;
+  
+}
+.wp-elements-14 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-15 a:where(:not(.wp-element-button)) {
+  color:#ef8c8c;
+  
+}
+.wp-elements-16 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-17 a:where(:not(.wp-element-button)) {
+  color:#ef8c8c;
+  
+}
+.wp-elements-18 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-9);
+  
+}
+.wp-elements-18 a:where(:not(.wp-element-button)):hover {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-19 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-9);
+  
+}
+.wp-elements-19 a:where(:not(.wp-element-button)):hover {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+.wp-elements-20 a:where(:not(.wp-element-button)) {
+  color:var(--wp--preset--color--theme-palette-9);
+  
+}
+.wp-elements-20 a:where(:not(.wp-element-button)):hover {
+  color:var(--wp--preset--color--theme-palette-3);
+  
+}
+
+/*# sourceURL=core-block-supports-inline-css */
